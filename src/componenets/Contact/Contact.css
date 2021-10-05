@@ -1,0 +1,29 @@
+.icon {
+    font-size: 50px;
+    color: #DD1E4B;
+}
+
+.contact-container {
+    padding: 100px 0;
+}
+
+.contact-card:hover {
+    background-color: #DD1E4B;
+    color: white;
+    transition: .7s;
+    cursor: pointer;
+}
+
+.contact-card:hover .icon {
+    color: white;
+    transition: .7s;
+}
+
+@media only screen and (max-width: 600px) {
+    .contact-container {
+        width: 80%;
+    }
+    .contact-card {
+        margin: 20px auto;
+    }
+}

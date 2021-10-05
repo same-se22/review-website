@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "IELTS Academic",
+      "about": "Find IELTS Academic. Large Selection. Always Sale. Cheap Prices. Full Offer. Save Online.",
+      "img": "http://www.independent.com.mt/file.aspx?f=162188&width=630&height=340",
+      "price" : 7500,
+      "center" : "sylhet"
+    },
+    {
+      "id": 2,
+      "name": "IELTS General",
+      "about": "Find IELTS General Training Books. Large Selection. Always Sale. Cheap Prices. Full Offer.",
+      "img": "https://www.gsoschool.com/education/wp-content/uploads/2018/05/The-importance-of-learning-English-1-1-1200x600.jpeg",
+      "price" : 4500,
+      "center" : "sylhet"
+    },
+    {
+      "id": 3,
+      "name": "IELTS Bullet",
+      "about": "A student asked a very good question: what will happen if you write about the bullet points.",
+      "img": "https://www.british-study.com/en/wp-content/uploads/sites/2/2020/02/TT-Square-2-1.jpg",
+      "price" : 4650,
+      "center" : "sylhet"
+    },
+    {
+      "id": 4,
+      "name": "Spoken English ",
+      "about": "short English conversations in different situations.",
+      "img": "https://www.studying-in-germany.org/wp-content/uploads/2013/01/studying-english-language-in-Germany.jpg",
+      "price" :4500,
+      "center" : "sylhet"
+    },
+    {
+      "id": 5,
+      "name": "Grammar and Writing",
+      "about": "Cambridge Grammar and Writing Skills | Develop your learners' skills in creative writing and writing for a purpose.",
+      "img": "https://the-bg.com/wp-content/uploads/2019/11/Crucial-conversation-1024x683.jpg",
+      "price" : 4000,
+      "center" : "sylhet"
+    },
+    {
+      "id": 6,
+      "name": "IELTS Life Skills",
+      "about": "IELTS Life Skills is an English test for people who need to prove their English speaking and listening ability as part of a visa or immigration application.",
+      "img": "https://www.antoinetteoglethorpe.com/wp-content/uploads/2016/06/Depositphotos_136927724_original.jpg",
+      "price" : 15000,
+      "center" : "sylhet"
+    },
+    {
+      "id": 7,
+      "name": "Grammar for IELTS",
+      "about": "There is no actual grammar test section in the IELTS test, but you are still graded on this by the examiner in the speaking test and writing test.",
+      "img": "https://www.youstudy.com/gallery/blog/post/study-english-at-education-first.jpg",
+      "price" : 5000,
+      "center" : "sylhet"
+    },
+    {
+      "id": 8,
+      "name": "Reading For IELTS",
+      "about": "These include reading for gist, reading for main ideas, reading for detail, skimming.",
+      "img": "https://wse-strapi-image-hosting-wse-dev.s3.eu-west-1.amazonaws.com/small_course_single_asian_group_conversation_c6e85e29e2.jpg",
+      "price" : 4600,
+      "center" : "sylhet"
+    },
+    {
+      "id": 9,
+      "name": "Writing For IELTS ",
+      "about": "IELTS Writing Test lasts for 60 minutes, and you will need to complete two writing tasks.",
+      "img": "https://thumb.viva.co.id/media/frontend/thumbs3/2018/05/01/5ae7ff5d52104-salah-satu-finalis-grand-final-power-of-words-wall-street-english-2018_665_374.JPG",
+      "price" : 6000,
+      "center" : "sylhet"
+      
+    }
+  ]

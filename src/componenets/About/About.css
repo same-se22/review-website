@@ -1,0 +1,27 @@
+.about-heading {
+    padding-top: 16%;
+    font-size: 6rem;
+    font-weight: 800;
+    background: -webkit-linear-gradient(#ff0019, #dd1d4a);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+.about-text {
+    font-size: 1.7rem;
+    color:  #dd1d4a ;
+    background-color: black;
+    margin:auto;
+    padding-bottom: 30px;
+    padding-top: 25px;
+}
+
+@media only screen and (max-width:600px) {
+    .about-heading {
+        font-size: 3rem
+    }
+    .about-text {
+        font-size: 1rem
+    }
+}

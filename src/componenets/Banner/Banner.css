@@ -1,0 +1,23 @@
+.banner-pic {
+    width: 375px;
+    height: 545px
+}
+
+.banner-container {
+    margin: 120px 0
+}
+
+.banner-heading {
+    font-size: 6rem;
+    font-weight: 800;
+    background: -webkit-linear-gradient(#0075f2, #26ffe6);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent
+}
+
+.banner-text {
+    font-size: 1.3rem;
+    color: #8e8e8e;
+    margin: auto
+}
